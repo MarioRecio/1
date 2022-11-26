@@ -1,9 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/javafx/FXMLController.java to edit this template
- */
-package examen;
-
 import java.io.File;
 import java.io.IOException;
 import java.net.URL;
@@ -17,11 +11,6 @@ import javafx.fxml.Initializable;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.AnchorPane;
 
-/**
- * FXML Controller class
- *
- * @author Nacho
- */
 public class FXMLCrearController implements Initializable {
 
     @FXML
