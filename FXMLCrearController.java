@@ -91,7 +91,7 @@ public class FXMLCrearController implements Initializable {
                 contenido[i].delete();
             }
         }
-
+        f.delete();
     }
 
 }
